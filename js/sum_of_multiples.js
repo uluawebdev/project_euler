@@ -9,5 +9,6 @@ function sumOfMultiples() {
     }
   }
   console.log(result);
+  return result;
 }
 sumOfMultiples();
